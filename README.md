@@ -20,4 +20,4 @@
 
 ## GIF
 
-![](../download.gif)
+![](./download.gif)
